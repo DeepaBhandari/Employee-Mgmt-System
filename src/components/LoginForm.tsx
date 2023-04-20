@@ -202,6 +202,8 @@ export default function LoginForm() {
                         <option>United States</option>
                         <option>Canada</option>
                         <option>Mexico</option>
+                        <option>Nepal</option>
+                        <option>Nigeria</option>
                       </select>
                     </div>
 
